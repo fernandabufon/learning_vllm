@@ -1,7 +1,3 @@
-Abaixo vai um **guia direto** (README) de como rodar **vLLM em container na máquina remota** e acessar do seu PC via **SSH tunnel**.
-
----
-
 # Como rodar vLLM (container + túnel SSH)
 
 ## 0) Pré-requisitos
