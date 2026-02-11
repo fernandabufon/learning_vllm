@@ -170,3 +170,24 @@ curl -4 http://127.0.0.1:8000/v1/chat/completions \
 * **Baixou modelo de novo**: cache HF diferente no container (persistir cache resolve).
 
 ---
+
+## 9) No online como API da OpenAI:
+```from openai import OpenAI
+
+client = OpenAI(
+    api_key="EMPTY",
+    base_url="http://127.0.0.1:8000/v1",  
+)
+
+resp = client.chat.completions.create(
+    model="Qwen/Qwen3-4B-Instruct-2507",
+    messages=[
+        {"role": "system", "content": "You are a helpful assistant."},
+        {"role": "user", "content": "Tell me a joke."},
+    ],
+    temperature=0,
+    max_tokens=80,
+)
+
+print(resp.choices[0].message.content)
+```
