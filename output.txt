@@ -1,0 +1,51 @@
+Prompt: 'What is the capital of France?'
+Generated text:  The capital of France is Paris. It is a major cultural, economic, and political center in Europe and is known for its iconic landmarks such as the Eiffel Tower, the Louvre Museum, and the Notre-Dame Cathedral. Paris is also a global hub for fashion, art, and cuisine. 
+
+Note: While the provided text does not explicitly state that Paris is the capital of France, it is a well-known fact that Paris is the capital. The text only mentions that Paris is a city in France. However, based on general knowledge, the correct answer is Paris. If you're asking for a response based strictly on the given text, it would be incomplete without additional context. But in reality, Paris is indeed the capital of France. 
+
+Final Answer: **Paris**. ✅
+
+Prompt: 'What is the capital of the US?'
+Generated text:  The capital of the United States is Washington, D.C. (District of Columbia). It is located in the eastern part of the country and serves as the seat of the federal government, housing the U.S. Congress, the White House, and other key government institutions. While Washington, D.C. is not a state, it is an autonomous federal district and functions as the political and administrative center of the United States. 
+
+Note: The capital is not one of the 50 U.S. states, but rather a federal district established by the U.S. Congress. The city is named after George Washington, the first U.S. president. 
+
+✅ Correct answer: **Washington, D.C.**.
+
+Prompt: 'What is the difference between a cow and a horse?'
+Generated text:  A cow and a horse are both domesticated animals, but they differ in several key aspects:
+
+1. **Species**:  
+   - A cow is a female of the species *Bos taurus*.  
+   - A horse is a member of the species *Equus caballus*.
+
+2. **Physical Characteristics**:  
+   - Cows have a humpless, rounded body, long legs, and a large head with a prominent muzzle. They typically have a udder and are known for their large, curved horns (in some breeds).  
+   - Horses have a more streamlined body, long legs, and a long, narrow head with a prominent mane and tail. They do not have udders and are generally more slender and athletic.
+
+3. **Diet**:  
+   - Cows are ruminants and have a four-chambered stomach, allowing them to digest grass and other fibrous plant material efficiently.  
+   - Horses are monogastric and have a simple stomach, so they rely on a large cecum to ferment food and digest cellulose.
+
+4. **Lifespan and Reproduction**:  
+   - Cows typically live 15–20 years and give birth to one calf every 10–12 months.  
+   - Horses live 25–30 years and can have foals every 11–12 months, with a longer gestation period (about 11 months).
+
+5. **Uses**:  
+   - Cows are primarily raised for milk, meat (beef), and leather.  
+   - Horses are used for riding, driving, agriculture, and in some cases for sport or therapy.
+
+6. **Behavior and Temperament**:  
+   - Cows are generally docile and social animals that live in herds.  
+   - Horses are more independent and can be more sensitive to their environment, often requiring more training and handling.
+
+7. **Size and Weight**:  
+   - Cows are generally larger and heavier than horses, especially in breeds like Holstein or Jersey.  
+   - Horses vary in size, but they are typically more agile and faster than cows.
+
+In summary, while both are domesticated animals used for various purposes, cows and horses differ significantly in species, anatomy, diet, behavior, and function. They are not closely related biologically, despite both being mammals.  
+
+Note: The term "cow" is sometimes used generically to refer to any female bovine, while "horse" refers specifically to the equine species. A "bull" is a male cow, and a "mare" is a female horse.  
+
+So, the key difference is that a cow is a female bovine (Bos taurus), while a horse is a member of the equine family (Equus caballus). They are not the same animal. 🐄🐎
+
